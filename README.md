@@ -21,8 +21,6 @@ I’m a passionate Computer Science graduate student at the University at Buffal
 
 ### ⚙️ Tech Stack
 
-### ⚙️ Tech Stack
-
 <p align="center">
 
 <!-- Languages -->
