@@ -22,8 +22,16 @@ I’m a passionate Computer Science graduate student at the University at Buffal
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php,mysql,postgres,mongodb,bash,npm,nextjs,nodejs,android,numpy,pandas,git,docker,kubernetes,linux,pytorch,tensorflow,keras,sklearn,opencv,react,flask,fastapi,aws,gcp,solidity,bootstrap,tailwind,figma,notion&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php,mysql,postgres,mongodb,bash,npm,nextjs,nodejs,android,git,docker,kubernetes,linux,pytorch,tensorflow,opencv,react,flask,fastapi,aws,gcp,solidity,bootstrap,tailwind,figma,notion&perline=10" />
 </p>
+
+<!-- Extra badges for unsupported icons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
 
 
 
