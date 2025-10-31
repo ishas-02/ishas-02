@@ -1,7 +1,9 @@
 <!-- Header Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="./A_banner-style_digital_graphic_features_Isha_Shety.png" alt="Isha Nitin Shetye Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Isha+Shetye;AI%2FML+Engineer+%7C+Deep+Learning+%7C+Computer+Vision;MS+CS+@+University+at+Buffalo;Always+learning+something+new+💻" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Isha Nitin Shetye</span></h1>
 
