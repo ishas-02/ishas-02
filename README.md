@@ -14,10 +14,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Working on **Real-Time Accident Risk Prediction** integrating stereo vision, YOLOv8, and CNN-based driver analysis  
-- 🧠 Building **RAG pipelines** (LangChain + SentenceTransformers + FAISS) for contextual AI-driven explanations  
-- 📱 Developing a **driver-monitoring Android app** using offline STT (Vosk) + multilingual TTS alerts  
-- 💬 Passionate about **AI for Safety, Vision-Language Models, and Human-Centered AI Systems**
+I’m a passionate Computer Science graduate student at the University at Buffalo specializing in Artificial Intelligence and Machine Learning. My interests span across deep learning, computer vision, and intelligent systems that bridge research and real-world impact. I enjoy building end-to-end AI solutions — from data processing and model design to deployment and visualization — and thrive in environments where innovation meets practical problem-solving. I’m continuously exploring how AI can drive safety, accessibility, and automation while developing systems that are interpretable, ethical, and human-centered.
 
 ---
 
