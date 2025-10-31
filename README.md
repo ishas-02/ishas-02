@@ -21,31 +21,62 @@ I’m a passionate Computer Science graduate student at the University at Buffal
 
 ### ⚙️ Tech Stack
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" /><br>
-  🐍 Python &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; ⚙️ C/C++ &nbsp;|&nbsp; 🧩 JavaScript
-</p>
+### ⚙️ Tech Stack
 
 <p align="center">
-  <!-- Web & Database -->
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,postgresql,mongodb" /><br>
-  🌐 HTML/CSS &nbsp;|&nbsp; 💡 PHP &nbsp;|&nbsp; 🗄️ MySQL &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🍃 MongoDB
+
+<!-- Programming Languages -->
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/>&nbsp;<b>Python</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/>&nbsp;<b>Java</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=c" width="40"/>&nbsp;<b>C</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40"/>&nbsp;<b>C++</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/>&nbsp;<b>JavaScript</b></a>
+
+<br><br>
+
+<!-- Web & Database -->
+<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/>&nbsp;<b>HTML</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/>&nbsp;<b>CSS</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=php" width="40"/>&nbsp;<b>PHP</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/>&nbsp;<b>MySQL</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="40"/>&nbsp;<b>PostgreSQL</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/>&nbsp;<b>MongoDB</b></a>
+
+<br><br>
+
+<!-- Frameworks & Libraries -->
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/>&nbsp;<b>PyTorch</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>&nbsp;<b>TensorFlow</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=keras" width="40"/>&nbsp;<b>Keras</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="40"/>&nbsp;<b>Scikit-Learn</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=opencv" width="40"/>&nbsp;<b>OpenCV</b></a>
+
+<br><br>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/>&nbsp;<b>React</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/>&nbsp;<b>Node.js</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=flask" width="40"/>&nbsp;<b>Flask</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/>&nbsp;<b>FastAPI</b></a>
+
+<br><br>
+
+<!-- Tools, Cloud & Design -->
+<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/>&nbsp;<b>Git</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/>&nbsp;<b>Docker</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/>&nbsp;<b>Kubernetes</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40"/>&nbsp;<b>Linux</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/>&nbsp;<b>AWS</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40"/>&nbsp;<b>GCP</b></a>
+
+<br><br>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=solidity" width="40"/>&nbsp;<b>Solidity</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>&nbsp;<b>Bootstrap</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/>&nbsp;<b>Tailwind</b></a>&nbsp;&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/>&nbsp;<b>Figma</b></a>
+
 </p>
 
-<p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,react,nodejs,flask,fastapi" /><br>
-  🔥 PyTorch &nbsp;|&nbsp; 🧠 TensorFlow &nbsp;|&nbsp; 🧩 Keras &nbsp;|&nbsp; 📊 Scikit-Learn &nbsp;|&nbsp; 👁️ OpenCV <br>
-  ⚛️ React &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🧪 Flask &nbsp;|&nbsp; ⚡ FastAPI
-</p>
-
-<p align="center">
-  <!-- Tools & Cloud -->
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,aws,gcp,solidity,bootstrap,tailwind,figma" /><br>
-  🧭 Git &nbsp;|&nbsp; 🐳 Docker &nbsp;|&nbsp; ☸️ Kubernetes &nbsp;|&nbsp; 🐧 Linux <br>
-  ☁️ AWS &nbsp;|&nbsp; 🔥 GCP &nbsp;|&nbsp; ⛓️ Solidity &nbsp;|&nbsp; 🎨 Bootstrap/Tailwind &nbsp;|&nbsp; 🖌️ Figma
-</p>
 
 
 ---
