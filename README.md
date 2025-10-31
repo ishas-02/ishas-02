@@ -22,8 +22,31 @@ I’m a passionate Computer Science graduate student at the University at Buffal
 ### ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php,mysql,postgresql,mongodb,git,docker,kubernetes,linux,pytorch,tensorflow,keras,sklearn,opencv,react,nodejs,flask,fastapi,aws,gcp,solidity,bootstrap,tailwind,figma&perline=10" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" /><br>
+  🐍 Python &nbsp;|&nbsp; ☕ Java &nbsp;|&nbsp; ⚙️ C/C++ &nbsp;|&nbsp; 🧩 JavaScript
 </p>
+
+<p align="center">
+  <!-- Web & Database -->
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,postgresql,mongodb" /><br>
+  🌐 HTML/CSS &nbsp;|&nbsp; 💡 PHP &nbsp;|&nbsp; 🗄️ MySQL &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🍃 MongoDB
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,react,nodejs,flask,fastapi" /><br>
+  🔥 PyTorch &nbsp;|&nbsp; 🧠 TensorFlow &nbsp;|&nbsp; 🧩 Keras &nbsp;|&nbsp; 📊 Scikit-Learn &nbsp;|&nbsp; 👁️ OpenCV <br>
+  ⚛️ React &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🧪 Flask &nbsp;|&nbsp; ⚡ FastAPI
+</p>
+
+<p align="center">
+  <!-- Tools & Cloud -->
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,aws,gcp,solidity,bootstrap,tailwind,figma" /><br>
+  🧭 Git &nbsp;|&nbsp; 🐳 Docker &nbsp;|&nbsp; ☸️ Kubernetes &nbsp;|&nbsp; 🐧 Linux <br>
+  ☁️ AWS &nbsp;|&nbsp; 🔥 GCP &nbsp;|&nbsp; ⛓️ Solidity &nbsp;|&nbsp; 🎨 Bootstrap/Tailwind &nbsp;|&nbsp; 🖌️ Figma
+</p>
+
 
 ---
 
