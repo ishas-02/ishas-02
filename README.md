@@ -1,17 +1,22 @@
-<!-- Profile Header -->
+<!-- Header Banner -->
+<p align="center">
+  <img src="./A_banner-style_digital_graphic_features_Isha_Shety.png" alt="Isha Nitin Shetye Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Isha Nitin Shetye</span></h1>
+
 <p align="center">
 🎓 MS in Computer Science (AI/ML Track) @ <b>University at Buffalo, SUNY</b> <br>
-🤖 Research Assistant • AI/ML • Computer Vision • Multimodal Perception • RAG Systems <br>
+🤖 Research Assistant • AI/ML • Deep Learning • Computer Vision • Software Engineering <br>
 📍 Buffalo, NY | 📧 <a href="mailto:isha.nm.shetye@gmail.com">isha.nm.shetye@gmail.com</a>
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 Working on **Real-Time Accident Risk Prediction** using stereo vision, YOLOv8, depth modeling, and CNN-based driver analysis  
-- 🧠 Building **RAG pipelines** (LangChain + SentenceTransformers + FAISS) for contextual AI Q&A  
-- 📱 Developing an **Android driver-monitoring app** with offline STT (Vosk) + multilingual TTS alerts  
+- 🔭 Working on **Real-Time Accident Risk Prediction** integrating stereo vision, YOLOv8, and CNN-based driver analysis  
+- 🧠 Building **RAG pipelines** (LangChain + SentenceTransformers + FAISS) for contextual AI-driven explanations  
+- 📱 Developing a **driver-monitoring Android app** using offline STT (Vosk) + multilingual TTS alerts  
 - 💬 Passionate about **AI for Safety, Vision-Language Models, and Human-Centered AI Systems**
 
 ---
