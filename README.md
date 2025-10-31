@@ -1,11 +1,10 @@
 <!-- Header Banner -->
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Isha+Shetye;AI%2FML+Engineer+%7C+Deep+Learning+%7C+Computer+Vision;MS+CS+@+University+at+Buffalo;Always+learning+something+new+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hi+there!+I'm+Isha+Shetye;AI%2FML+AI/ML+%7C+Software+%7C;MS+CS+@+University+at+Buffalo;Always+learning+something+new+💻" alt="Typing SVG" />
 </p>
 
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Isha Nitin Shetye</span></h1>
 
 <p align="center">
 🎓 MS in Computer Science (AI/ML Track) @ <b>University at Buffalo, SUNY</b> <br>
