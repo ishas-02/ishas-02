@@ -22,8 +22,9 @@ I’m a passionate Computer Science graduate student at the University at Buffal
 ### ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,javascript,html,css,php,mysql,postgresql,mongodb,shell,npm,nextjs,nodejs,android,numpy,pandas,git,docker,kubernetes,linux,pytorch,tensorflow,keras,sklearn,opencv,flask,fastapi,aws,gcp,solidity,bootstrap,tailwind,figma,notion&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php,mysql,postgres,mongodb,bash,npm,nextjs,nodejs,android,numpy,pandas,git,docker,kubernetes,linux,pytorch,tensorflow,keras,sklearn,opencv,react,flask,fastapi,aws,gcp,solidity,bootstrap,tailwind,figma,notion&perline=10" />
 </p>
+
 
 
 ---
