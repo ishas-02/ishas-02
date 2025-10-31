@@ -9,7 +9,7 @@
 <p align="center">
 🎓 MS in Computer Science (AI/ML Track) @ <b>University at Buffalo, SUNY</b> <br>
 🤖 Research Assistant • AI/ML • Deep Learning • Computer Vision • Software Engineering <br>
-📍 Buffalo, NY | 📧 <a href="mailto:isha.nm.shetye@gmail.com">isha.nm.shetye@gmail.com</a>
+📍 USA | 📧 <a href="mailto:isha.nm.shetye@gmail.com">isha.nm.shetye@gmail.com</a>
 </p>
 
 ---
